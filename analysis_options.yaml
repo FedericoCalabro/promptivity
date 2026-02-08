@@ -12,3 +12,4 @@ linter:
 
 formatter:
   page_width: 160
+  trailing_commas: preserve
